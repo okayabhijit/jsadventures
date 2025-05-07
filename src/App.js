@@ -9,7 +9,7 @@ function App() {
         <p>
           Welcome to my portfolio website! You will find the awesome js apps here.
           <br />
-          <b>Abhijeet august</b>
+          <b>Abhijeet august...</b>
         </p>
         <a
           className="App-link"
