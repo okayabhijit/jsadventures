@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Canvas from './components/Canvas';
 import './App.css';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Canvas />
     </div>
   );
 }
