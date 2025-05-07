@@ -99,7 +99,7 @@ const Canvas = () => {
             canvas.removeEventListener('mousemove', () => {});
             window.removeEventListener('resize', () => {});
         };
-    }, []);
+    });
 
     return <canvas id='canvas1' ref={canvasRef} />;
 };
